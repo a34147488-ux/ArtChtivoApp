@@ -1,4 +1,3 @@
-aiogram==3.13.1
-fastapi
+pyTelegramBotAPI
 uvicorn
-python-dotenv
+fastapi
